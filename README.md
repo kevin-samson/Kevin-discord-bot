@@ -1,4 +1,4 @@
-# kevin's Discord Bot
+# Kevin's Discord Bot
 
 Made this discord bot for fun. :) [Click here](https://discord.com/api/oauth2/authorize?client_id=757995031650107424&permissions=8&scope=bot) to add the bot in your server. 
 
